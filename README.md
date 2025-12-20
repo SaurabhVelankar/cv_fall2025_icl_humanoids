@@ -12,8 +12,9 @@ For experiments regarding Adaptive Whitening, NA/ACh modulation, and OOD detecti
 
 To use the ICRT codebase:
 
-1.  **Download** the `ICRT_CVPR.zip` package from the folder `incontext-robot-transformers`.
+1.  **Download** the `ICRT_CVPR.zip` package from the folder `in-context-robot-transformers`.
 2.  **Unzip** the archive into any local directory.
 3.  **Check** the contents and refer to the internal documentation within the unzipped `icrt` folder for setup and training instructions.
+
 
 
